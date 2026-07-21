@@ -3,7 +3,7 @@
 Prebuilt kernel artifacts extracted from:
 
 ```text
-uke_global_images_OS3.0.9.0.WOZMIXM_20260323.0000.00_16.0_global
+uke_global_images_OS3.0.301.0.WOZMIXM_16.0
 ```
 
 Contents:
@@ -15,4 +15,4 @@ Contents:
 - `modules/ramdisk`: stock `vendor_boot` ramdisk modules and load lists
 - `modules/system`: stock `system_dlkm` module metadata and flattened modules
 
-Kernel version: `6.1.118-android14-11-gca0ef6d17716-ab13624819`
+Kernel version: `6.1.138-android14-11-g0c3d559bcd85-ab14529422`
